@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "./swoley-fit/index.html"
+status = 200
